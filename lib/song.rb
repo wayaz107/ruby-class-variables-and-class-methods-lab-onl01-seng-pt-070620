@@ -18,21 +18,21 @@ end
 
 def self.count
   @@count
-end 
+end
 
 def self.genres
   @@genres
-end 
+end
 
 def self.artists
   @@artists
-end 
+end
 
 def self.genre_count
   @@genre_count = {}
-end 
+end
 
 def self.artist_count
   @artist_count = {}
-end 
-end  
+end
+end
